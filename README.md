@@ -16,8 +16,8 @@ CPU|i7-10875H
 
 环境|版本
 --|--
-OpenCore|0.9.2
-MacOS Monterey |12.6
+OpenCore|0.9.5
+MacOS Monterey |12.7
 
 已驱动：
 
